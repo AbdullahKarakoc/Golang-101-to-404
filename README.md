@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![Version](https://img.shields.io/badge/version-0.1.8-orange.svg?style=for-the-badge)
 ![Go Version](https://img.shields.io/badge/go-1.20.6-orange.svg?style=for-the-badge)
 ![Powered by Rake](https://img.shields.io/badge/powered_by-rake-blue?logo=ruby&style=for-the-badge)
@@ -234,3 +235,6 @@ beklenir.
 [COC]:   https://github.com/vbyazilim/maoyyk2023-golang-101-kursu/blob/main/CODE_OF_CONDUCT.md
 [vigo]:  https://github.com/vigo
 [erhan]: https://github.com/erhanakp
+=======
+# Golang-101-to-404
+>>>>>>> be7d0ed01d7db5ffcc4af338860706aec3aacc28
