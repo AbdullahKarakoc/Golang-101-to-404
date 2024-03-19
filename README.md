@@ -229,6 +229,7 @@ Bu projenin kaynak kodunda, sorun izleyicilerinde, sohbet odalarında ve posta
 listelerinde etkileşimde bulunan herkesin [davranış kurallarına][COC] uyması
 beklenir.
 
+
 ---
 
 [COC]:   https://github.com/vbyazilim/maoyyk2023-golang-101-kursu/blob/main/CODE_OF_CONDUCT.md
